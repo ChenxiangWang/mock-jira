@@ -1,3 +1,52 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": 1,
+      "name": "Jack"
+    },
+    {
+      "id": 2,
+      "name": "Jordan"
+    },
+    {
+      "id": 3,
+      "name": "Bob"
+    },
+    {
+      "id": 4,
+      "name": "Simth"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Shop website",
+      "personId": 1,
+      "organization": "Group A"
+    },
+    {
+      "id": 2,
+      "name": "Ticket App",
+      "personId": 2,
+      "organization": "Group B"
+    },
+    {
+      "id": 3,
+      "name": "Student management system",
+      "personId": 2,
+      "organization": "Group E"
+    },
+    {
+      "id": 4,
+      "name": "Uber east",
+      "personId": 3,
+      "organization": "Group C"
+    },
+    {
+      "id": 5,
+      "name": "Youtube",
+      "personId": 4,
+      "organization": "Group D"
+    }
+  ]
 }
